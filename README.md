@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IGzer26
+- 👋 Hi, I’m @0x7v
 - 👀 I’m interested in Bug Hunting.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Bug bounty
